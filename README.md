@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bimo Satrio Putra Pradana
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning Front End Web
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Front End Web, Full Stack Developer and Back End Developer
 - 📫 How to reach me bimosatrio814@gmail.com
 
 <!---
