@@ -1,5 +1,10 @@
+## 👋 Hi, I’m Bimo Satrio Putra Pradana
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/whoisbimms_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bimosatrioputrapradana/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://mrbercisk.github.io/)
+
 🚀 Web Developer & Code Enthusiast 🌐
-- 👋 Hi, I’m Bimo Satrio Putra Pradana
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Web, Full Stack Developer and Back End Developer
 - 📫 How to reach me bimosatrio814@gmail.com
@@ -11,6 +16,7 @@
 - <b>Database</b>: MySQL
 - <b>REST API</b>: Design and implementation
 - <b>Tools</b>: Git, VS Code, Postman
+
 
 ## Connect with Me
 Explore my projects, dive into the code, and let's build something amazing together! Feel free to connect or collaborate. 🤝✨
