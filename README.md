@@ -6,15 +6,14 @@
 
 🚀 Web Developer & Code Enthusiast 🌐
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Web, Full Stack Developer and Back End Developer
+- 🌱 I’m currently learning Full Stack Developer and Software Engineer
 - 📫 How to reach me bimosatrio814@gmail.com
 
 🛠️ Tech Stack:
 
-- <b>Frontend</b>: HTML, CSS, JavaScript (Vue.js), Bootstrap, UiKit
-- <b>Backend</b>: Golang, PHP (CodeIgniter 3/4)
+- <b>Frontend</b>: HTML, CSS, JavaScript (Vue.js), Bootstrap, UiKit, Tailwind
+- <b>Backend</b>: Golang, PHP (CodeIgniter 3/4), Laravel
 - <b>Database</b>: MySQL
-- <b>REST API</b>: Design and implementation
 - <b>Tools</b>: Git, VS Code, Postman
 
 
