@@ -11,7 +11,7 @@
 
 🛠️ Tech Stack:
 
-- <b>Frontend</b>: HTML, CSS, JavaScript (Vue.js), Bootstrap, UiKit, Tailwind
+- <b>Frontend</b>: HTML, CSS, JavaScript (Vue,react), Bootstrap, UiKit, Tailwind
 - <b>Backend</b>: Golang, PHP (CodeIgniter 3/4), Laravel
 - <b>Database</b>: MySQL
 - <b>Tools</b>: Git, VS Code, Postman
