@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/whoisbimms_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bimosatrioputrapradana/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://mrbercisk.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://bees-portfolio.vercel.app/)
 
 🚀 Web Developer & Code Enthusiast 🌐
 - 👀 I’m interested in Web Development
