@@ -1,26 +1,94 @@
-## 👋 Hi, I’m Bimo Satrio Putra Pradana
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/whoisbimms_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bimosatrioputrapradana/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://bimsportfolio.vercel.app/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bimo+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;Full+Stack+%26+Software+Engineer;Building+things+for+the+web+%F0%9F%8C%90" alt="Typing SVG" />
 
-🚀 Web Developer & Code Enthusiast 🌐
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Developer and Software Engineer
-- 📫 How to reach me bimosatrio814@gmail.com
+# Bimo Satrio Putra Pradana
 
-🛠️ Tech Stack:
+**Web Developer & Code Enthusiast** — turning ideas into clean, functional code.
 
-- <b>Frontend</b>: HTML, CSS, JavaScript (Vue,react), Bootstrap, UiKit, Tailwind
-- <b>Backend</b>: Golang, PHP (CodeIgniter 3/4), Laravel
-- <b>Database</b>: MySQL
-- <b>Tools</b>: Git, VS Code, Postman
+<p>
+  <a href="https://bimsportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bimosatrioputrapradana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/whoisbimms_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:bimosatrio814@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+</div>
 
-## Connect with Me
-Explore my projects, dive into the code, and let's build something amazing together! Feel free to connect or collaborate. 🤝✨
+---
 
-Happy coding! 🚀
+### 🧑‍💻 About Me
+
+- 👀 Interested in **Web Development** and building end-to-end products
+- 🌱 Currently sharpening my skills as a **Full Stack Developer & Software Engineer**
+- 💼 Portfolio: **[bimsportfolio.vercel.app](https://bimsportfolio.vercel.app/)**
+- 📫 Reach me at **bimosatrio814@gmail.com**
+- 🤝 Open to collaborating on interesting projects — let's build something together
+
+---
+
+### 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwind" />
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=go,php,laravel,codeigniter" />
+
+</td>
+<td valign="top" width="33%">
+
+**Database & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode,postman" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrBercisk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBercisk&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBercisk&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+Explore my projects, dive into the code, and let's build something amazing together! ✨
+
+<a href="https://bimsportfolio.vercel.app/"><img src="https://img.shields.io/badge/View%20My%20Portfolio-00C2FF?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
+
+**Happy coding! 🚀**
+
+</div>
 
 <!---
 MrBercisk/MrBercisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
